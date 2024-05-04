@@ -1,0 +1,7 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\PARCIAL DOS\P2. Empleados\P2. Empleados\bin\Debug\P2.Empleados.exe.config
+C:\Users\Lucia Sandoval\OneDrive\Desktop\PARCIAL DOS\P2. Empleados\P2. Empleados\bin\Debug\P2.Empleados.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\PARCIAL DOS\P2. Empleados\P2. Empleados\bin\Debug\P2.Empleados.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\PARCIAL DOS\P2. Empleados\P2. Empleados\obj\Debug\P2. Empleados.csproj.AssemblyReference.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\PARCIAL DOS\P2. Empleados\P2. Empleados\obj\Debug\P2. Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\PARCIAL DOS\P2. Empleados\P2. Empleados\obj\Debug\P2.Empleados.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\PARCIAL DOS\P2. Empleados\P2. Empleados\obj\Debug\P2.Empleados.pdb
